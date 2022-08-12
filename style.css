@@ -139,4 +139,8 @@ button img{
 #hello:focus
 {
   outline:none;
-}    
+}
+html {
+  scroll-behavior: smooth;
+}
+    
